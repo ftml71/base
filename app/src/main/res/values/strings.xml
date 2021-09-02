@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kotlin Base Application</string>
+
+    <string name="global_loading">Loading…</string>
+    <string name="global_ok">OK</string>
+    <string name="global_yes">Yes</string>
+    <string name="global_np">No</string>
+    <string name="global_try_again">Try Again</string>
+    <string name="global_cancel">Cancel</string>
+    <string name="global_warning">Warning</string>
+    <string name="global_op_failure">Operation Failed</string>
+
+    <string name="error_unexpected">An unexpected error occurred. Please try again later. If the problem persists, please contact us.</string>
+    <string name="error_timeout">Request timeout. Try again later. If the problem persists, please contact us.</string>
+    <string name="error_not_found">Data not found.</string>
+    <string name="error_server_internal">An error occurred on the server side. Please try again later. If the problem persists, please contact us.</string>
+    <string name="error_network">There was a network error. Make sure you have internet connection and try again.</string>
+
+    <!-- TODO remove this text -->
+    <string name="text_simulate_request_error">Simulate Request Error</string>
+</resources>
